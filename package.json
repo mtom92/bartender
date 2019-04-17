@@ -1,5 +1,5 @@
 {
-  "name": "auth-boiler-change-each-use",
+  "name": "bartender",
   "version": "1.0.0",
   "description": "This is a generic template for future project baselines. It contains working auth and a user model and database",
   "main": "index.js",

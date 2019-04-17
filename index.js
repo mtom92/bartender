@@ -26,7 +26,7 @@ app.use((req,res,next) =>{
   next()
 })
 //include routes from controllers
-app.use('/drinks', require('./controllers/profile'))
+app.use('/drinks', require('./controllers/drinks'))
 //make a home route GET /
 app.get('/', (req,res)=>{
   res.render('home')
